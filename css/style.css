@@ -18,6 +18,9 @@
 .color1{
   background-color: rgba(0, 14, 120, 1) !important;
 }
+.color1-07{
+  background-color: rgba(0, 14, 120, 0.7) !important;
+}
 .color1-05{
   background-color: rgba(0, 14, 120, 0.5) !important;
 }
@@ -37,9 +40,17 @@
 .white-text{
   color: rgba(255, 255, 255, 1) !important;
 }
+
 /*POSITION*/
 .position-fixed{
   position: fixed;
+}
+/*BORDER*/
+.border-2px-color1{
+  border: 2px solid rgba(0, 14, 120, 1);
+}
+.borderRadius-10px{
+  border-radius: 10px;
 }
 /*HEADER------------------------------------------------------------------------------------------------------------------------------------------------*/
 .newlogocontainer{
@@ -47,3 +58,5 @@
     width: auto;
     margin: 10px;
 }
+
+/*LAB1--------------------------------------------------------------------------------------------------------------------------------------------------*/
