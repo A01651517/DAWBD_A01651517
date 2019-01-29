@@ -5,18 +5,30 @@
  *
  * Made By MaterializeCSS.com
  */
-
 .icon-block {
   padding: 0 15px;
 }
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.width-100porc{
+  width: 100%;
+}
 
 /*GENERAL-----------------------------------------------------------------------------------------------------------------------------------------------*/
 /*COLOR*/
+.boxShadow{
+  -webkit-transition: -webkit-box-shadow .25s;
+  transition: -webkit-box-shadow .25s;
+  transition: box-shadow .25s;
+  transition: box-shadow .25s, -webkit-box-shadow .25s;
+}
+
 .color1{
   background-color: rgba(0, 14, 120, 1) !important;
+}
+.color1-07{
+  background-color: rgba(0, 14, 120, 0.7) !important;
 }
 .color1-05{
   background-color: rgba(0, 14, 120, 0.5) !important;
@@ -37,13 +49,178 @@
 .white-text{
   color: rgba(255, 255, 255, 1) !important;
 }
+
 /*POSITION*/
 .position-fixed{
   position: fixed;
+}
+.position-static{
+  position: static !important;
+}
+
+/*BORDER*/
+.border-2px-color1{
+  border: 2px solid rgba(0, 14, 120, 1);
+}
+.borderRadius-4px{
+  border-radius: 4px;
+}
+.borderRadius-10px{
+  border-radius: 10px;
+}
+
+
+/*MARGIN*/
+.margin-10px{
+  margin:10px;
+}
+.margin-1rem{
+  margin: 1rem;
+}
+
+.margin-top-1rem{
+  margin-top: 1rem;
+}
+
+/*PADDING*/
+.padding-10px{
+  padding: 10px !important;
+}
+.padding-1rem{
+  padding: 1rem;
 }
 /*HEADER------------------------------------------------------------------------------------------------------------------------------------------------*/
 .newlogocontainer{
     height: 1.5em;
     width: auto;
     margin: 10px;
+}
+.logosidenav{
+  height: 5rem;
+  width: auto;
+  margin: 10px;
+}
+/*INDEX-------------------------------------------------------------------------------------------------------------------------------------------------*/
+.btnBox{
+  border-radius: 10px;
+  border: 2px solid rgba(0, 14, 120, 1);
+  padding: 0px;
+  margin: 20px;
+}
+.btnBoxTag{
+  background-color: rgba(0, 14, 120, 1);
+  border-radius: 8px;
+  font-size: 120%;
+}
+.btnBoxContent{
+  padding: 10px;
+  margin: 2px;
+}
+/*LAB1--------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*MASONRY CARDS https://stackoverflow.com/questions/38933939/masonry-in-materializecss------------------------------------------------------------------*/
+.cards-container {
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+.cards-container .card {
+  display: inline-block;
+  overflow: visible;
+}
+
+@media only screen and (max-width: 600px) {
+  .cards-container {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+  }
+  .cards-container.scols2{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+  .cards-container.scols3{
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+  }
+  .cards-container.scols4{
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+  }
+  .cards-container.scols5{
+    -webkit-column-count: 5;
+    -moz-column-count: 5;
+    column-count: 5;
+  }
+}
+@media only screen and (min-width: 601px) {
+  .cards-container.mcols2{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+  .cards-container.mcols3{
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+  }
+  .cards-container.mcols4{
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+  }
+  .cards-container.mcols5{
+    -webkit-column-count: 5;
+    -moz-column-count: 5;
+    column-count: 5;
+  }
+}
+@media only screen and (min-width: 993px) {
+  .cards-container.lcols2{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+  .cards-container.lcols3{
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+  }
+  .cards-container.lcols4{
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+  }
+  .cards-container.lcols5{
+    -webkit-column-count: 5;
+    -moz-column-count: 5;
+    column-count: 5;
+  }
+}
+@media only screen and (min-width: 1201px) {
+  .cards-container.xlcols2{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
+  .cards-container.xlcols3{
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+  }
+  .cards-container.xlcols4{
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+  }
+  .cards-container.xlcols5{
+    -webkit-column-count: 5;
+    -moz-column-count: 5;
+    column-count: 5;
+  }
+}
+.text-center {
+  text-align: center;
 }
