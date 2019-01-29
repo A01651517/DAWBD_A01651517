@@ -17,7 +17,7 @@
     <main>
       <div class="section no-pad-bot" id="index-banner">
         <div class="container">
-          <h5 class="center color1-text">PEDRO LUIS GONZÁLEZ ROA</h5>
+          <h5 class="center color1-text">PEDRO LUIS GONZÁLEZ ROA </h5>
           <p></p>
           <div class="btnBox">
             <div class="btnBoxTag white-text center">
