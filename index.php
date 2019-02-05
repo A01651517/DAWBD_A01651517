@@ -17,7 +17,8 @@
     <main>
       <div class="section no-pad-bot" id="index-banner">
         <div class="container">
-          <h5 class="center color1-text">PEDRO LUIS GONZÁLEZ ROA </h5>
+          <h3 class="center color1-text">PEDRO LUIS GONZÁLEZ ROA </h3>
+          <h4 class="center color1-text">A01651517</h4>
           <p></p>
           <div class="btnBox">
             <div class="btnBoxTag white-text center">
@@ -35,6 +36,72 @@
               </div>
               <div class="col l3 m4 s6 padding-10px">
                 <a href="lab4.php" class="waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 4</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab5.php" class="waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 5</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab6.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 6</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab7.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 7</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab8.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 8</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab9.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 9</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab10.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 10</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab11.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 11</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab12.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 12</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab13.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 13</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab14.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 14</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab15.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 15</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab16.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 16</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab17.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 17</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab18.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 18</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab19.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 19</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab20.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 20</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab21.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 21</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab22.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 22</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab23.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 23</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab24.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 24</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab25.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 25</a>
+              </div>
+              <div class="col l3 m4 s6 padding-10px">
+                <a href="lab26.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 26</a>
               </div>
             </div>
           </div>

@@ -8,6 +8,7 @@
         <li><a href="lab1.php" class="center white-text">Laboratorio 2</a></li>
         <li><a href="lab1.php" class="center white-text">Laboratorio 3</a></li>
         <li><a href="lab4.php" class="center white-text">Laboratorio 4</a></li>
+        <li><a href="lab5.php" class="center white-text">Laboratorio 5</a></li>
         <li><div class="divider white"></div></li>
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger show-on-large"><i class="material-icons color1-text">menu</i></a>

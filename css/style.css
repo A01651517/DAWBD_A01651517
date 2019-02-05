@@ -86,6 +86,9 @@
 .padding-10px{
   padding: 10px !important;
 }
+.padding-12px{
+  padding: 12px !important;
+}
 .padding-1rem{
   padding: 1rem;
 }
@@ -128,6 +131,33 @@
   padding: 10px;
   border: 2px solid rgba(0, 14, 120, 1);
   border-radius: 20px;
+}
+/*LAB5--------------------------------------------------------------------------------------------------------------------------------------------------*/
+#loginBox_lab5{
+  margin: auto;
+  padding: 20px;
+  width: 70%;
+  height: 50%;
+  border-radius: 20px;
+  border: 2px solid rgba(0, 14, 120, 1);
+}
+.container_lab5{
+  margin: auto;
+  margin-bottom: 15px;
+  padding: 30px;
+  border-radius: 20px;
+  border: 2px solid rgba(0, 14, 120, 1);
+}
+#chart_lab5{
+  width: 300px;
+  height: 300px;
+}
+.form_lab5{
+  border: 2px solid rgba(0, 14, 120, 1);
+  margin: auto;
+  padding: 10px;
+  border-radius: 20px;
+  width: 70%;
 }
 /*MASONRY CARDS https://stackoverflow.com/questions/38933939/masonry-in-materializecss------------------------------------------------------------------*/
 .cards-container {
@@ -235,4 +265,29 @@
 }
 .text-center {
   text-align: center;
+}
+
+/*PAGE MESSAGE---------------------------------------------------------------------------------------------------------------------------------------*/
+#message_box{
+  position: fixed;
+  left: 60%;
+  top: 10%;
+  min-width: 150px;
+  max-width: 35%;
+}
+.message_container{
+  margin: 10px;
+  padding: 10px;
+  background-color: rgba(255, 20, 20, 0.8);
+  border-radius: 10px;
+
+  -webkit-transition: -webkit-box-shadow .25s;
+  transition: -webkit-box-shadow .25s;
+  transition: box-shadow .25s;
+  transition: box-shadow .25s, -webkit-box-shadow .25s;
+}
+.message_text{
+  margin: auto;
+  text-align: center;
+  color: rgba(255,255,255,1);
 }
