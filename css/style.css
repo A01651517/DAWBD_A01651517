@@ -54,6 +54,7 @@
 .position-fixed{
   position: fixed;
 }
+
 .position-static{
   position: static !important;
 }
@@ -92,12 +93,18 @@
 .padding-1rem{
   padding: 1rem;
 }
+=======
+.borderRadius-10px{
+  border-radius: 10px;
+}
+
 /*HEADER------------------------------------------------------------------------------------------------------------------------------------------------*/
 .newlogocontainer{
     height: 1.5em;
     width: auto;
     margin: 10px;
 }
+
 .logosidenav{
   height: 5rem;
   width: auto;

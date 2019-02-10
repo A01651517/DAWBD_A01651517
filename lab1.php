@@ -22,7 +22,6 @@
           <h2 class="color1-text center">LABORATORIO 1</h2>
           <div class="row">
             <div class="col s12 cards-container mcols2 xlcols3">
-
               <div class="card indigo lighten-1 borderRadius-10px">
                 <div class="card-content white-text">
                   <span class="card-title center">¿Cuál es la diferencia entre Internet y la World Wide Web?</span>
@@ -164,6 +163,7 @@
         </div>
       </div>
     </main>
+
     <!--COMANDO PARA INCLUIR EL NAV EN TODAS LAS PÁGINAS DE MANERA FÁCIL Y DINÁMICA-->
     <?php include_once 'includes/footer.inc.php';?>
 

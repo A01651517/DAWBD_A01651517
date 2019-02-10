@@ -109,7 +109,6 @@
       </div>
     </main>
     <?php include_once 'includes/footer.inc.php';?>
-    <!--ESTA PÁGINA PROXIMAMENTE SERÁ UN ÍNDICE PARA ACCEDER A LOS DIFERENTES LABORATORIOS. EN EL MOMENTO SÓLO MANDA DIRECTO AL PRIMER LABORATORIO-->
     <!--  Scripts-->
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="js/materialize.js"></script>
