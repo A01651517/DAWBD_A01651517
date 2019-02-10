@@ -47,7 +47,7 @@
   background-color: rgba(255, 255, 255, 0.5) !important;
 }
 .white-text{
-  color: rgba(255, 255, 255, 1) !important;
+  color: rgba(255, 255, 255, 1);
 }
 
 /*POSITION*/
@@ -158,6 +158,43 @@
   padding: 10px;
   border-radius: 20px;
   width: 70%;
+}
+/*LAB6--------------------------------------------------------------------------------------------------------------------------------------------------*/
+.watermark{
+  position: fixed;
+  float: right;
+  height: 50px;
+  width: 100px;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+.watermark-left{
+  top: 80%;
+  left: 5%;
+}
+.watermark-right{
+  top: 80%;
+  left: 90%;
+}
+
+.hover-fontChange:hover{
+  font-family: "Times New Roman", Times, serif;
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.helper-parent{
+
+}
+.helper{
+  position: fixed;
+  left: 5%;
+  top: 20%;
+  visibility: hidden;
+  background-color: #004d40;
+  border-radius: 20px;
+  padding: 10px
+}
+.helper-parent:hover .helper{
+  visibility: visible;
 }
 /*MASONRY CARDS https://stackoverflow.com/questions/38933939/masonry-in-materializecss------------------------------------------------------------------*/
 .cards-container {
@@ -276,6 +313,7 @@
   max-width: 35%;
 }
 .message_container{
+  float: right;
   margin: 10px;
   padding: 10px;
   background-color: rgba(255, 20, 20, 0.8);
