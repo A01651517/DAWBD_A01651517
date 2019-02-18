@@ -50,7 +50,7 @@
                 <a href="lab8.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 8</a>
               </div>
               <div class="col l3 m4 s6 padding-10px">
-                <a href="lab9.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 9</a>
+                <a href="lab9.php" class="waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 9</a>
               </div>
               <div class="col l3 m4 s6 padding-10px">
                 <a href="lab10.php" class="disabled waves-effect waves-light btn color1 borderRadius-10px width-100porc">LABORATORIO 10</a>
