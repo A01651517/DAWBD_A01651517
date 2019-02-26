@@ -15,6 +15,7 @@
   </head>
   <body>
     <!--COMANDO PARA INCLUIR EL NAV EN TODAS LAS PÁGINAS DE MANERA FÁCIL Y DINÁMICA-->
+    <!--LAB7: desde el principio ya había comenzado a utilizar frameworks-->
     <?php include_once 'includes/nav.inc.php';?>
     <main>
       <div class="section no-pad-bot" id="index-banner">
